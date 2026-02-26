@@ -1,1 +1,2 @@
 # SBGATOOLS_APP
+这是SDGBTOOLS发行版的仓库，SDGBTOOLS本身并不开源，该仓库用于获取更新
