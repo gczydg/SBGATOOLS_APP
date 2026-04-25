@@ -143,7 +143,7 @@
 2. 点击**检查更新**按钮
 3. 如有新版本，点击**下载并安装**
 
-> 💡 下载源：优先自建 IPv6 源（https://sbgatools.141824.xyz:6116/），失败回退 GitHub Release
+> 💡 下载源：优先自建 IPv6 源，失败回退 GitHub Release
 > 💡 版本检查使用 GitHub Releases API（`gczydg/SBGATOOLS_APP` 仓库 latest Release）
 > 💡 应用会自动使用系统配置的网络代理（通过 MethodChannel 获取 Android 系统代理设置）
 > 💡 下载完成后自动调用系统安装器打开 APK 文件
