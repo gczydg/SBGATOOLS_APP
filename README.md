@@ -1,7 +1,7 @@
 # SBGATOOLS 使用手册
 
-> **当前版本**: v1.3.16+67
-> **文档修订**: r28（UI对齐修复+默认值调整）
+> **当前版本**: v1.3.25+73
+> **文档修订**: r32（新增KaleidxScope解锁功能）
 > 一款用于 maimai DX 游戏的功能票发放与存档修改工具。
 
 ## 快速开始
@@ -143,7 +143,8 @@
 2. 点击**检查更新**按钮
 3. 如有新版本，点击**下载并安装**
 
-> 💡 更新源：`gczydg/SBGATOOLS_APP` 仓库的 latest Release
+> 💡 下载源：优先自建 IPv6 源（https://sbgatools.141824.xyz:6116/），失败回退 GitHub Release
+> 💡 版本检查使用 GitHub Releases API（`gczydg/SBGATOOLS_APP` 仓库 latest Release）
 > 💡 应用会自动使用系统配置的网络代理（通过 MethodChannel 获取 Android 系统代理设置）
 > 💡 下载完成后自动调用系统安装器打开 APK 文件
 
@@ -175,6 +176,7 @@
 | GetUserMissionDataApi | 任务数据 | rethrow 触发重试 |
 | GetUserFavoriteItemApi | 收藏物品（2种 kind） | rethrow 触发重试 |
 | GetUserItemApi | 用户物品（礼物/歌曲解锁） | rethrow 触发重试 |
+| GetUserKaleidxScopeApi | 万花筒区域数据（条件获取） | rethrow 触发重试 |
 
 #### 可自定义字段
 
@@ -188,6 +190,7 @@
 | `point`（舞里程） | 增加舞里程数量 | 同时增加 point 和 totalPoint |
 | 增加礼物数量 | 购买礼物增加库存 | 原库存 + 增加数量，同时生成 userTradeItemList 购买记录 |
 | 歌曲解锁（不含紫白谱） | 解锁需要特定条件的歌曲（仅歌曲本身，不含紫白谱难度） | Switch 启用/禁用，三种模式：手动/部分/全部 |
+| KaleidxScope解锁 | 解锁万花筒区域的门与钥匙 | Switch 启用/禁用，Radio 选择区域，Checkbox 发现门/获取钥匙 |
 | 相同旅行伙伴 | 单推旅行伙伴开关 | 5个角色位置设为相同队长角色并锁定 |
 
 > ⚠️ 自定义数据仅内存有效，关闭 APP 后需重新配置
@@ -245,7 +248,7 @@
 
 ```
 步骤1: 解析二维码 → 步骤2: 验证许可证+获取用户预览 → 步骤3: 等待3秒后登录
-→ 步骤4: 获取13类用户数据(每项重试3次) → 步骤5: 构建UserAll数据 → 等待60秒
+→ 步骤4: 获取15类用户数据(每项重试3次) → 步骤5: 构建UserAll数据 → 等待60秒
 → 上传GetUserNewItemListApi → 步骤6: 上传UpsertUserAllApi → 步骤7: 等待5秒后登出
 ```
 
@@ -335,6 +338,7 @@
 | 舞里程 | 增加舞里程数量，可在商店中用舞里程获取道具 |
 | 增加礼物数量 | 购买礼物增加库存，通过送礼提升伙伴好感度 |
 | 歌曲解锁（不含紫白谱） | 解锁需要特定条件的歌曲（仅歌曲本身，不含紫白谱难度） |
+| KaleidxScope解锁 | 解锁万花筒区域的门与钥匙，选择区域后自动发现门和获取钥匙 |
 | 相同旅行伙伴 | 将5个旅行伙伴设为相同的队长角色（单推模式） |
 
 > 配置仅在内存中生效，关闭 APP 后恢复为原始值
