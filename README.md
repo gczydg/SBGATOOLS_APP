@@ -1,7 +1,7 @@
 # SBGATOOLS 使用手册
 
-> **当前版本**: v1.3.36+84
-> **文档修订**: r14（v1.3.36：速率限制边界定论，移除25s/30s发票等待选项，使用说明同步）
+> **当前版本**: v1.3.40+85
+> **文档修订**: r15（v1.3.40：新增歌曲成绩上传功能，修复mapStock）
 > 一款用于 maimai DX 游戏的功能票发放与存档修改工具。
 
 ## 快速开始
@@ -204,6 +204,7 @@
 | 友人对战 | 友人对战阶级和CP点数修改 | Switch 启用/禁用，DropdownButtonFormField 选择阶级，TextField 设置CP点数 |
 | mapStock | 移动距离设为999KM | Switch 启用/禁用，启用后 mapStock=999000（999KM），默认关闭 |
 | 获取收藏品 | 获取头像/姓名框/背景/称号 | Switch 启用/禁用，DropdownButtonFormField 选择种类+输入itemId，自动查询已有收藏品避免重复 |
+| 歌曲成绩上传 | 覆盖上传自定义歌曲成绩 | Switch 启用/禁用，至多3首歌曲，同时修改MusicDetailList和PlaylogList，包含通用信息和Playlog判定详情 |
 
 > ⚠️ 自定义数据仅内存有效，关闭 APP 后需重新配置
 > ⚠️ playerRating 留空使用原始值；playCount/currentPlayCount 留空使用原始值+1；舞里程/礼物数量 留空即不使用该功能
