@@ -1,11 +1,18 @@
 {
   "announcements": [
     {
+        "id": "2026-05-30-v1.5-preview",
+        "title": "v1.5 版本技术预览",
+        "content": "TEST",
+        "publishedAt": "2026-05-31T12:00:00Z",
+        "pinned": true
+    },
+    {
       "id": "2026-05-30-v1.4-preview",
       "title": "v1.4 版本技术预览",
       "content": "v1.3.101 已作为 v1.4 的先行技术测试版本发布，包含性能优化与过渡动画更新。所有技术验证通过后，更新内容将并入 v1.4 正式版对外发布。",
       "publishedAt": "2026-05-30T12:00:00Z",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": "2026-05-28-performance-update",
@@ -26,7 +33,7 @@
       "title": "数据上传注意事项",
       "content": "使用数据上传功能前，请确保设备时间已同步。时间偏差过大会导致上传失败，并可能导致当前 IP 被封禁。建议在设置中检查时间同步状态。",
       "publishedAt": "2026-05-10T08:00:00Z",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": "2026-04-15-welcome",
