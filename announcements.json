@@ -1,46 +1,11 @@
 {
   "announcements": [
     {
-        "id": "2026-05-30-v1.5-preview",
-        "title": "v1.5 版本技术预览",
+        "id": "2026-05-30-test123",
+        "title": "TEST123测试公告",
         "content": "TEST",
-        "publishedAt": "2026-05-31T12:00:00Z",
-        "pinned": true
-    },
-    {
-      "id": "2026-05-30-v1.4-preview",
-      "title": "v1.4 版本技术预览",
-      "content": "v1.3.101 已作为 v1.4 的先行技术测试版本发布，包含性能优化与过渡动画更新。所有技术验证通过后，更新内容将并入 v1.4 正式版对外发布。",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "pinned": false
-    },
-    {
-      "id": "2026-05-28-performance-update",
-      "title": "性能优化二次审查完成",
-      "content": "本次更新对 APP 进行了全面的二次性能审查，涵盖状态管理、资源管理、网络数据、渲染布局、数据存储五个维度，共计完成 20 项优化。主要改进包括：消除冗余重建、API 进一步并行化、日志通知节流、渲染层优化等。",
-      "publishedAt": "2026-05-28T10:00:00Z",
-      "pinned": false
-    },
-    {
-      "id": "2026-05-20-transition-animations",
-      "title": "界面过渡动画已加入",
-      "content": "本次更新为 APP 加入了全局页面切换动画和同界面内状态变化的过渡动画，包括 CupertinoPageTransitionsBuilder 全局页面切换、ProcessOutputPanel 面板切换动画、配置界面条件区域展开/折叠动画。",
-      "publishedAt": "2026-05-20T09:00:00Z",
-      "pinned": false
-    },
-    {
-      "id": "2026-05-10-data-upload-guide",
-      "title": "数据上传注意事项",
-      "content": "使用数据上传功能前，请确保设备时间已同步。时间偏差过大会导致上传失败，并可能导致当前 IP 被封禁。建议在设置中检查时间同步状态。",
-      "publishedAt": "2026-05-10T08:00:00Z",
-      "pinned": false
-    },
-    {
-      "id": "2026-04-15-welcome",
-      "title": "欢迎使用 SBGATOOLS",
-      "content": "感谢使用 SBGATOOLS！如有问题或建议，欢迎通过 GitHub Issues 反馈。",
-      "publishedAt": "2026-04-15T08:00:00Z",
-      "pinned": false
+        "publishedAt": "2026-05-30T08:34:00Z",
+        "pinned": false
     }
   ]
 }
