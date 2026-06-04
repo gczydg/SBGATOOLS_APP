@@ -1,11 +1,39 @@
 {
   "announcements": [
     {
-        "id": "2026-05-30-test123",
-        "title": "TEST123测试公告",
-        "content": "TEST",
-        "publishedAt": "2026-05-30T08:34:00Z",
-        "pinned": false
+      "id": "playcountactivity",
+      "title": "关于官方2026游玩次数活动",
+      "content": "如果你的账号用过会导致账号数据污染的功能，建议不要参加官方的游玩次数活动，避免被官方检测到异常数据导致账号封禁，具体请参考下方公告",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "pinned": true
+    },
+    {
+      "id": "aboutuserchargelist",
+      "title": "userChargeList污染说明",
+      "content": "在1.53版本后获取过4、5、6倍功能票的账号，建议不要参加活动。1.53前获取过不受影响",
+      "publishedAt": "2026-06-05T01:02:00.000Z",
+      "pinned": false
+    },
+    {
+      "id": "aboutcollectibleremove",
+      "title": "userItem污染说明",
+      "content": "获取收藏品会造成账号数据污染，移除收藏品只能删除库存（stock0），不能移除污染字段。如果你的账号用过该功能获取过【WEC牌子、版本牌子、版本背景】等等在官机上无法获取到的收藏品，建议不要参加活动",
+      "publishedAt": "2026-06-05T01:01:00.000Z",
+      "pinned": false
+    },
+    {
+      "id": "abouterroruserall",
+      "title": "其他不正常的内容",
+      "content": "【相同旅行伙伴，playcount与GetUserRegionApi记录总数不一致，KaleidxScpoe开门但地图未完成，没打过几次友人对战但是段位异常高】等等，建议不要参加活动。可修改至正常状态，友人对战历史最高段位覆盖过几天更新",
+      "publishedAt": "2026-06-05T01:00:00.000Z",
+      "pinned": false
+    },
+    {
+      "id": "partnerawakening",
+      "title": "旅行伙伴超觉醒适配",
+      "content": "旅行伙伴升级晚些日子再适配超觉醒，观察一段时间看看安不安全，想抢鲜体验的可以看看闲鱼别的卖家",
+      "publishedAt": "2026-06-05T00:00:00.000Z",
+      "pinned": false
     }
   ]
 }
