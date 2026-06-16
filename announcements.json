@@ -24,15 +24,8 @@
     {
       "id": "abouterroruserall",
       "title": "其他不正常的内容",
-      "content": "【相同旅行伙伴，playcount与GetUserRegionApi记录总数不一致，KaleidxScpoe开门但地图未完成，没打过几次友人对战但是段位异常高】等等，建议不要参加活动。可修改至正常状态，友人对战历史最高段位覆盖过几天更新",
+      "content": "【相同旅行伙伴，playcount与GetUserRegionApi记录总数不一致，KaleidxScpoe开门但地图未完成，没打过几次友人对战但是段位异常高】等等，建议不要参加活动。可修改至正常状态",
       "publishedAt": "2026-06-05T01:00:00.000Z",
-      "pinned": false
-    },
-    {
-      "id": "partnerawakening",
-      "title": "旅行伙伴超觉醒适配",
-      "content": "旅行伙伴升级晚些日子再适配超觉醒，观察一段时间看看安不安全，想抢鲜体验的可以看看闲鱼别的卖家",
-      "publishedAt": "2026-06-05T00:00:00.000Z",
       "pinned": false
     }
   ]
