@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "clientid",
+      "title": "关于本地机厅信息配置",
+      "content": "爬了最新的全国机台数据，之前用别的地区的如果想换到本地机厅，QQ找我就行",
+      "publishedAt": "2026-06-24T01:00:00.000Z",
+      "pinned": true
+    },
+    {
       "id": "ipbanned",
       "title": "关于华立网络审查变严",
       "content": "听说华立的网络审查变严了，有的用代理IP组的bot也出现了上传不稳定的情况，现在上传成功的概率应该会比以前更低，总之勤换IP",
