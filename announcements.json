@@ -1,11 +1,18 @@
 {
   "announcements": [
     {
+      "id": "mai",
+      "title": "遇到BUG发日志",
+      "content": "遇到BUG发日志，我测试不太全面，有日志修的快",
+      "publishedAt": "2026-07-20T13:30:00.000Z",
+      "pinned": true
+    },
+    {
       "id": "liz",
       "title": "栗子搭档数据",
       "content": "装备栗子作为搭档，上传存档时会被视为异常数据拒收，并且公众号内无法修改。不要发栗子不要发栗子不要发栗子。",
       "publishedAt": "2026-07-08T22:00:00.000Z",
-      "pinned": true
+      "pinned": false
     },
     {
       "id": "clientid",
