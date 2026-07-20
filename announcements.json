@@ -4,28 +4,35 @@
       "id": "mai",
       "title": "遇到BUG发日志",
       "content": "遇到BUG发日志，我测试不太全面，有日志修的快",
-      "publishedAt": "2026-07-20T13:30:00.000Z",
+      "publishedAt": "2026-07-20T13:30:00Z",
       "pinned": true
     },
     {
       "id": "liz",
       "title": "栗子搭档数据",
       "content": "装备栗子作为搭档，上传存档时会被视为异常数据拒收，并且公众号内无法修改。不要发栗子不要发栗子不要发栗子。",
-      "publishedAt": "2026-07-08T22:00:00.000Z",
+      "publishedAt": "2026-07-08T22:00:00Z",
       "pinned": false
     },
     {
       "id": "clientid",
       "title": "关于本地机厅信息配置",
       "content": "爬了最新的全国机台数据，之前用别的地区的如果想换到本地机厅，QQ找我就行",
-      "publishedAt": "2026-06-24T01:00:00.000Z",
+      "publishedAt": "2026-06-24T01:00:00Z",
       "pinned": false
     },
     {
       "id": "ipbanned",
       "title": "关于华立网络审查变严",
       "content": "听说华立的网络审查变严了，有的用代理IP组的bot也出现了上传不稳定的情况，现在上传成功的概率应该会比以前更低，总之勤换IP",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "publishedAt": "2026-06-24T00:00:00Z",
+      "pinned": false
+    },
+    {
+      "id": "cdn-freshness-test-20260720-194454",
+      "title": "CDN 时效性测试（可忽略）",
+      "content": "用于测试 cdn.jsdelivr.net 与 cdn.jsdmirror.com 的公告同步时效，测试完成后将自动删除。测试标识：cdn-freshness-test-20260720-194454",
+      "publishedAt": "2026-07-20T11:44:54.148Z",
       "pinned": false
     }
   ]
