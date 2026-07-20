@@ -1,0 +1,16 @@
+name: Purge announcement CDN
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - announcements.json
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: |
+          curl --fail --retry 3 \
+            "https://purge.jsdelivr.net/gh/gczydg/SBGATOOLS_APP@main/announcements.json"
