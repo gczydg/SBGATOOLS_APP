@@ -27,13 +27,6 @@
       "content": "听说华立的网络审查变严了，有的用代理IP组的bot也出现了上传不稳定的情况，现在上传成功的概率应该会比以前更低，总之勤换IP",
       "publishedAt": "2026-06-24T00:00:00Z",
       "pinned": false
-    },
-    {
-      "id": "cdn-freshness-test-20260720-194454",
-      "title": "CDN 时效性测试（可忽略）",
-      "content": "用于测试 cdn.jsdelivr.net 与 cdn.jsdmirror.com 的公告同步时效，测试完成后将自动删除。测试标识：cdn-freshness-test-20260720-194454",
-      "publishedAt": "2026-07-20T11:44:54.148Z",
-      "pinned": false
     }
   ]
 }
