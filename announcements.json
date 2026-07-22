@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "ban",
+      "title": "这次封号又封的啥，我这里没看到准确的消息",
+      "content": "1",
+      "publishedAt": "2026-07-22T14:30:00.000Z",
+      "pinned": true
+    },
+    {
       "id": "mai",
       "title": "遇到BUG发日志",
       "content": "遇到BUG发日志，我测试不太全面，有日志修的快",
