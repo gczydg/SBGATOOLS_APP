@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "entityType": "plate",
   "catalogVersion": "Package155-A000-A005-A011-A015",
-  "generatedAt": "2026-08-05T00:00:00.000Z",
+  "generatedAt": "2026-08-07T02:23:19.189812Z",
   "coverage": [
     "collection_xml",
     "map_reward",
@@ -745,8 +745,7 @@
               "values": {
                 "musicGroupId": 6101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -778,8 +777,7 @@
               "values": {
                 "musicGroupId": 6101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -811,8 +809,7 @@
               "values": {
                 "musicGroupId": 6101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -844,8 +841,7 @@
               "values": {
                 "musicGroupId": 6104,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -877,8 +873,7 @@
               "values": {
                 "musicGroupId": 6104,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -910,8 +905,7 @@
               "values": {
                 "musicGroupId": 6104,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -943,8 +937,7 @@
               "values": {
                 "musicGroupId": 6104,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -976,8 +969,7 @@
               "values": {
                 "musicGroupId": 6108,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1009,8 +1001,7 @@
               "values": {
                 "musicGroupId": 6108,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1042,8 +1033,7 @@
               "values": {
                 "musicGroupId": 6108,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1075,8 +1065,7 @@
               "values": {
                 "musicGroupId": 6108,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1108,8 +1097,7 @@
               "values": {
                 "musicGroupId": 6112,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1141,8 +1129,7 @@
               "values": {
                 "musicGroupId": 6112,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1174,8 +1161,7 @@
               "values": {
                 "musicGroupId": 6112,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1207,8 +1193,7 @@
               "values": {
                 "musicGroupId": 6112,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1240,8 +1225,7 @@
               "values": {
                 "musicGroupId": 6116,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1273,8 +1257,7 @@
               "values": {
                 "musicGroupId": 6116,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1306,8 +1289,7 @@
               "values": {
                 "musicGroupId": 6116,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1339,8 +1321,7 @@
               "values": {
                 "musicGroupId": 6116,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1372,8 +1353,7 @@
               "values": {
                 "musicGroupId": 6120,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1405,8 +1385,7 @@
               "values": {
                 "musicGroupId": 6120,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1438,8 +1417,7 @@
               "values": {
                 "musicGroupId": 6120,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1471,8 +1449,7 @@
               "values": {
                 "musicGroupId": 6120,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1504,8 +1481,7 @@
               "values": {
                 "musicGroupId": 6124,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1537,8 +1513,7 @@
               "values": {
                 "musicGroupId": 6124,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1570,8 +1545,7 @@
               "values": {
                 "musicGroupId": 6124,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1603,8 +1577,7 @@
               "values": {
                 "musicGroupId": 6124,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1636,8 +1609,7 @@
               "values": {
                 "musicGroupId": 6128,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1669,8 +1641,7 @@
               "values": {
                 "musicGroupId": 6128,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1702,8 +1673,7 @@
               "values": {
                 "musicGroupId": 6128,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1735,8 +1705,7 @@
               "values": {
                 "musicGroupId": 6128,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1768,8 +1737,7 @@
               "values": {
                 "musicGroupId": 6132,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1801,8 +1769,7 @@
               "values": {
                 "musicGroupId": 6132,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1834,8 +1801,7 @@
               "values": {
                 "musicGroupId": 6132,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1867,8 +1833,7 @@
               "values": {
                 "musicGroupId": 6132,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -1900,8 +1865,7 @@
               "values": {
                 "musicGroupId": 6136,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -1933,8 +1897,7 @@
               "values": {
                 "musicGroupId": 6136,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -1966,8 +1929,7 @@
               "values": {
                 "musicGroupId": 6136,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -1999,8 +1961,7 @@
               "values": {
                 "musicGroupId": 6136,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -2032,8 +1993,7 @@
               "values": {
                 "musicGroupId": 6140,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -2065,8 +2025,7 @@
               "values": {
                 "musicGroupId": 6140,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -2098,8 +2057,7 @@
               "values": {
                 "musicGroupId": 6140,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -2131,8 +2089,7 @@
               "values": {
                 "musicGroupId": 6140,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -2164,8 +2121,7 @@
               "values": {
                 "musicGroupId": 6144,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -2197,8 +2153,7 @@
               "values": {
                 "musicGroupId": 6144,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -2230,8 +2185,7 @@
               "values": {
                 "musicGroupId": 6144,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -2263,8 +2217,7 @@
               "values": {
                 "musicGroupId": 6144,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -2296,8 +2249,7 @@
               "values": {
                 "musicGroupId": 6148,
                 "rankId": "A",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             },
             {
@@ -2306,8 +2258,7 @@
               "values": {
                 "musicGroupId": 6149,
                 "rankId": "A",
-                "difficultyId": "REM",
-                "param": 0
+                "difficultyId": "REM"
               }
             }
           ],
@@ -2339,8 +2290,7 @@
               "values": {
                 "musicGroupId": 6148,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             },
             {
@@ -2349,8 +2299,7 @@
               "values": {
                 "musicGroupId": 6149,
                 "difficultyId": "REM",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -2382,8 +2331,7 @@
               "values": {
                 "musicGroupId": 6148,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             },
             {
@@ -2392,8 +2340,7 @@
               "values": {
                 "musicGroupId": 6149,
                 "rankId": "SSS",
-                "difficultyId": "REM",
-                "param": 0
+                "difficultyId": "REM"
               }
             }
           ],
@@ -2425,8 +2372,7 @@
               "values": {
                 "musicGroupId": 6148,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             },
             {
@@ -2435,8 +2381,7 @@
               "values": {
                 "musicGroupId": 6149,
                 "difficultyId": "REM",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -2468,8 +2413,7 @@
               "values": {
                 "musicGroupId": 6148,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             },
             {
@@ -2478,8 +2422,7 @@
               "values": {
                 "musicGroupId": 6149,
                 "difficultyId": "REM",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -3239,8 +3182,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -3272,8 +3214,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -3305,8 +3246,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -3338,8 +3278,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -4085,8 +4024,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -4118,8 +4056,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -4151,8 +4088,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -4184,8 +4120,7 @@
               "values": {
                 "musicGroupId": 55101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -4215,16 +4150,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_KAIDEN",
-                "param": 0
+                "gradeId": "SIN_KAIDEN"
               }
             }
           ],
@@ -4859,8 +4785,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -4892,8 +4817,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -4925,8 +4849,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -4958,8 +4881,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -5927,8 +5849,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -5960,8 +5881,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -5993,8 +5913,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -6026,8 +5945,7 @@
               "values": {
                 "musicGroupId": 159101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -6095,16 +6013,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_1",
-                "param": 0
+                "gradeId": "SIN_DAN_1"
               }
             }
           ],
@@ -6134,16 +6043,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_2",
-                "param": 0
+                "gradeId": "SIN_DAN_2"
               }
             }
           ],
@@ -6173,16 +6073,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_3",
-                "param": 0
+                "gradeId": "SIN_DAN_3"
               }
             }
           ],
@@ -6212,16 +6103,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_4",
-                "param": 0
+                "gradeId": "SIN_DAN_4"
               }
             }
           ],
@@ -6251,16 +6133,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_5",
-                "param": 0
+                "gradeId": "SIN_DAN_5"
               }
             }
           ],
@@ -6290,16 +6163,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_6",
-                "param": 0
+                "gradeId": "SIN_DAN_6"
               }
             }
           ],
@@ -6329,16 +6193,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_7",
-                "param": 0
+                "gradeId": "SIN_DAN_7"
               }
             }
           ],
@@ -6368,16 +6223,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_8",
-                "param": 0
+                "gradeId": "SIN_DAN_8"
               }
             }
           ],
@@ -6407,16 +6253,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_9",
-                "param": 0
+                "gradeId": "SIN_DAN_9"
               }
             }
           ],
@@ -6446,16 +6283,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "SIN_DAN_10",
-                "param": 0
+                "gradeId": "SIN_DAN_10"
               }
             }
           ],
@@ -7042,8 +6870,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -7075,8 +6902,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -7108,8 +6934,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -7141,8 +6966,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -7988,8 +7812,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -8021,8 +7844,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -8054,8 +7876,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -8087,8 +7908,7 @@
               "values": {
                 "musicGroupId": 259101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -8823,8 +8643,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -8856,8 +8675,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -8889,8 +8707,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -8922,8 +8739,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -9865,8 +9681,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -9898,8 +9713,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -9931,8 +9745,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -9964,8 +9777,7 @@
               "values": {
                 "musicGroupId": 359101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -9995,8 +9807,7 @@
               "category": "Total",
               "kind": "MUSIC",
               "values": {
-                "musicId": 11590,
-                "param": 0
+                "musicId": 11590
               }
             }
           ],
@@ -10027,24 +9838,14 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11590,
-                "difficultyId": "BAS",
-                "param": 0
+                "difficultyId": "BAS"
               }
             },
             {
               "category": "Track",
               "kind": "RANK",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "rankId": "A",
-                "param": 0
+                "rankId": "A"
               }
             }
           ],
@@ -10075,24 +9876,14 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11590,
-                "difficultyId": "EXP",
-                "param": 0
+                "difficultyId": "EXP"
               }
             },
             {
               "category": "Track",
               "kind": "RANK",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "rankId": "A",
-                "param": 0
+                "rankId": "A"
               }
             }
           ],
@@ -10123,8 +9914,7 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11590,
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -10155,8 +9945,7 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11590,
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -10187,8 +9976,7 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11591,
-                "syncId": "FS",
-                "param": 0
+                "syncId": "FS"
               }
             }
           ],
@@ -10218,8 +10006,7 @@
               "category": "Credit",
               "kind": "MUSIC",
               "values": {
-                "musicId": 11590,
-                "param": 3
+                "musicId": 11590
               }
             }
           ],
@@ -10250,24 +10037,14 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11590,
-                "difficultyId": "MAS",
-                "param": 0
+                "difficultyId": "MAS"
               }
             },
             {
               "category": "Track",
               "kind": "RANK",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "rankId": "A",
-                "param": 0
+                "rankId": "A"
               }
             }
           ],
@@ -10298,24 +10075,14 @@
               "kind": "MUSIC",
               "values": {
                 "musicId": 11590,
-                "difficultyId": "ADV",
-                "param": 0
+                "difficultyId": "ADV"
               }
             },
             {
               "category": "Track",
               "kind": "RANK",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "rankId": "A",
-                "param": 0
+                "rankId": "A"
               }
             }
           ],
@@ -10345,16 +10112,7 @@
               "category": "Credit",
               "kind": "CLEAR_GRADE",
               "values": {
-                "partnerId": 1,
-                "titleId": 1,
-                "plateId": 1,
-                "iconId": 1,
-                "frameId": 1,
-                "charaId": 101,
-                "musicGenreId": 1,
-                "matchingUserTitle": 1,
-                "gradeId": "URA_KAIDEN",
-                "param": 0
+                "gradeId": "URA_KAIDEN"
               }
             }
           ],
@@ -12011,8 +11769,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -12044,8 +11801,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -12077,8 +11833,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -12110,8 +11865,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -13095,8 +12849,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -13128,8 +12881,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -13161,8 +12913,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -13194,8 +12945,7 @@
               "values": {
                 "musicGroupId": 459101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
@@ -14168,8 +13918,7 @@
               "values": {
                 "musicGroupId": 559101,
                 "difficultyId": "ALL",
-                "fcId": "FC",
-                "param": 0
+                "fcId": "FC"
               }
             }
           ],
@@ -14201,8 +13950,7 @@
               "values": {
                 "musicGroupId": 559101,
                 "rankId": "SSS",
-                "difficultyId": "ALL",
-                "param": 0
+                "difficultyId": "ALL"
               }
             }
           ],
@@ -14234,8 +13982,7 @@
               "values": {
                 "musicGroupId": 559101,
                 "difficultyId": "ALL",
-                "fcId": "AP",
-                "param": 0
+                "fcId": "AP"
               }
             }
           ],
@@ -14267,8 +14014,7 @@
               "values": {
                 "musicGroupId": 559101,
                 "difficultyId": "ALL",
-                "syncId": "FSD",
-                "param": 0
+                "syncId": "FSD"
               }
             }
           ],
