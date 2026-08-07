@@ -1,0 +1,1017 @@
+{
+  "schemaVersion": 1,
+  "entityType": "partner",
+  "catalogVersion": "Package155-A000-A005-A011-A015",
+  "generatedAt": "2026-08-05T00:00:00.000Z",
+  "coverage": [
+    "collection_xml",
+    "map_reward",
+    "login_bonus",
+    "partner_closeness",
+    "shop_exchange"
+  ],
+  "items": [
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 1,
+      "name": "でらっくま",
+      "sources": [
+        {
+          "type": "initial",
+          "displayText": "はじめから所持",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000001",
+            "isDefault": true
+          },
+          "sourceRef": "A000/partner/partner000001/Partner.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 11,
+      "name": "乙姫",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "乙姫のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000011",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000011/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：乙姫」达到 10 点，获得搭档「乙姫」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 1,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000001/LoginBonus.xml"
+        },
+        {
+          "type": "shop_exchange",
+          "displayText": "在「搭档」使用 4800 点兑换搭档「乙姫」",
+          "category": "搭档",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "shopItemId": 2000011,
+            "itemCost": 4800,
+            "itemStock": 1,
+            "exchangeNum": 1,
+            "categoryId": 2
+          },
+          "sourceRef": "A000/shopItem/ShopItem2000011/ShopItem.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 12,
+      "name": "ラズ",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ラズのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000012",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000012/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ラズ」达到 10 点，获得搭档「ラズ」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 2,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000002/LoginBonus.xml"
+        },
+        {
+          "type": "shop_exchange",
+          "displayText": "在「搭档」使用 4800 点兑换搭档「ラズ」",
+          "category": "搭档",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "shopItemId": 2000012,
+            "itemCost": 4800,
+            "itemStock": 1,
+            "exchangeNum": 1,
+            "categoryId": 2
+          },
+          "sourceRef": "A000/shopItem/ShopItem2000012/ShopItem.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 13,
+      "name": "シフォン",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "シフォンのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000013",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000013/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：シフォン」达到 10 点，获得搭档「シフォン」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 3,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000003/LoginBonus.xml"
+        },
+        {
+          "type": "shop_exchange",
+          "displayText": "在「搭档」使用 4800 点兑换搭档「シフォン」",
+          "category": "搭档",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "shopItemId": 2000013,
+            "itemCost": 4800,
+            "itemStock": 1,
+            "exchangeNum": 1,
+            "categoryId": 2
+          },
+          "sourceRef": "A000/shopItem/ShopItem2000013/ShopItem.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 14,
+      "name": "ソルト",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ソルトのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000014",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000014/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ソルト」达到 10 点，获得搭档「ソルト」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 4,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000004/LoginBonus.xml"
+        },
+        {
+          "type": "shop_exchange",
+          "displayText": "在「搭档」使用 4800 点兑换搭档「ソルト」",
+          "category": "搭档",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "shopItemId": 2000014,
+            "itemCost": 4800,
+            "itemStock": 1,
+            "exchangeNum": 1,
+            "categoryId": 2
+          },
+          "sourceRef": "A000/shopItem/ShopItem2000014/ShopItem.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 15,
+      "name": "しゃま",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "しゃまのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000015",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000015/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：しゃま」达到 10 点，获得搭档「しゃま」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 5,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000005/LoginBonus.xml"
+        },
+        {
+          "type": "shop_exchange",
+          "displayText": "在「搭档」使用 4800 点兑换搭档「しゃま」",
+          "category": "搭档",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "shopItemId": 2000015,
+            "itemCost": 4800,
+            "itemStock": 1,
+            "exchangeNum": 1,
+            "categoryId": 2
+          },
+          "sourceRef": "A000/shopItem/ShopItem2000015/ShopItem.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 16,
+      "name": "みるく",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "みるくのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.05.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000016",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000016/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：みるく」达到 10 点，获得搭档「みるく」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 6,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000006/LoginBonus.xml"
+        },
+        {
+          "type": "shop_exchange",
+          "displayText": "在「搭档」使用 4800 点兑换搭档「みるく」",
+          "category": "搭档",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "shopItemId": 2000016,
+            "itemCost": 4800,
+            "itemStock": 1,
+            "exchangeNum": 1,
+            "categoryId": 2
+          },
+          "sourceRef": "A000/shopItem/ShopItem2000016/ShopItem.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 17,
+      "name": "らいむっくま＆れもんっくま",
+      "sources": [
+        {
+          "type": "initial",
+          "displayText": "はじめから所持",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.10.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000017",
+            "isDefault": true
+          },
+          "sourceRef": "A000/partner/partner000017/Partner.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 18,
+      "name": "乙姫（すぷらっしゅ）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "乙姫（すぷらっしゅ）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.15.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000018",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000018/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：乙姫（すぷらっしゅ）」达到 10 点，获得搭档「乙姫（すぷらっしゅ）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 7,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net230608"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000007/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 19,
+      "name": "しゃま（ゆにばーす）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "しゃま（ゆにばーす）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.20.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000019",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000019/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：しゃま（ゆにばーす）」达到 10 点，获得搭档「しゃま（ゆにばーす）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 8,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net230608"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000008/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 20,
+      "name": "みるく（ゆにばーす）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "みるく（ゆにばーす）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.20.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000020",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000020/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：みるく（ゆにばーす）」达到 10 点，获得搭档「みるく（ゆにばーす）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 9,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net230608"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000009/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 21,
+      "name": "ちびみるく",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ちびみるくのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.25.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000021",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000021/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ちびみるく」达到 10 点，获得搭档「ちびみるく」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 19,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net230608"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000019/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 22,
+      "name": "百合咲ミカ",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "百合咲ミカのスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.25.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000022",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000022/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：百合咲ミカ」达到 10 点，获得搭档「百合咲ミカ」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 20,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net230608"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000020/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 23,
+      "name": "ラズ（ふぇすてぃばる）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ラズ（ふぇすてぃばる）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.30.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000023",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000023/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ラズ（ふぇすてぃばる）」达到 10 点，获得搭档「ラズ（ふぇすてぃばる）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 24,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net240112"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000024/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 24,
+      "name": "シフォン（ふぇすてぃばる）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "シフォン（ふぇすてぃばる）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.30.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000024",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000024/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：シフォン（ふぇすてぃばる）」达到 10 点，获得搭档「シフォン（ふぇすてぃばる）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 25,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net240112"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000025/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 25,
+      "name": "ソルト（ふぇすてぃばる）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ソルト（ふぇすてぃばる）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.30.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000025",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000025/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ソルト（ふぇすてぃばる）」达到 10 点，获得搭档「ソルト（ふぇすてぃばる）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 26,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net240112"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000026/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 26,
+      "name": "黒姫",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "黒姫のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.35.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000026",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000026/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：黒姫」达到 10 点，获得搭档「黒姫」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 34,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000034/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 27,
+      "name": "ずんだもん",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ずんだもんのスタンプを5個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.40.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000027",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000027/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ずんだもん」达到 5 点，获得搭档「ずんだもん」",
+          "category": "Partner",
+          "eventId": 0,
+          "eventName": "解放なし",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 38,
+            "maxPoint": 5,
+            "isRepeatGet": false,
+            "isCollabo": true,
+            "netOpenName": "Net990101"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000038/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 28,
+      "name": "乙姫（ばでぃーず）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "乙姫（ばでぃーず）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.40.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000028",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000028/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：乙姫（ばでぃーず）」达到 10 点，获得搭档「乙姫（ばでぃーず）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 39,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net241204"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000039/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 29,
+      "name": "らいむっくま＆れもんっくま（ばでぃーず）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "らいむっくま＆れもんっくま（ばでぃーず）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.40.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000029",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000029/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：らいむっくま＆れもんっくま（ばでぃーず）」达到 10 点，获得搭档「らいむっくま＆れもんっくま（ばでぃーず）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 40,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net241204"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000040/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 30,
+      "name": "ラズ（ばでぃーず）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ラズ（ばでぃーず）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.45.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000030",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000030/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ラズ（ばでぃーず）」达到 10 点，获得搭档「ラズ（ばでぃーず）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 48,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net250611"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000048/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 31,
+      "name": "ソルト（ぷりずむ）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "ソルト（ぷりずむ）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.50.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000031",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000031/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：ソルト（ぷりずむ）」达到 10 点，获得搭档「ソルト（ぷりずむ）」",
+          "category": "Partner",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 53,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net251224"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000053/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 32,
+      "name": "みるく（ぷりずむ）",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "みるく（ぷりずむ）のスタンプを10個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.55.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000032",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000032/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：みるく（ぷりずむ）」达到 10 点，获得搭档「みるく（ぷりずむ）」",
+          "category": "Partner",
+          "eventId": 26061071,
+          "eventName": "260610_07_1：すたんぷカード報酬 DXnew2曲(Lock)追加《【DX譜面】ゴーゴー幽霊船、【DX譜面】ネコ日和。》",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 59,
+            "maxPoint": 10,
+            "isRepeatGet": false,
+            "isCollabo": false,
+            "netOpenName": "Net260610"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000059/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 33,
+      "name": "超てんちゃん",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "超てんちゃんのスタンプを5個集める",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.55.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000033",
+            "isDefault": false
+          },
+          "sourceRef": "A000/partner/partner000033/Partner.xml"
+        },
+        {
+          "type": "login_bonus",
+          "displayText": "集章卡「パートナー：超てんちゃん」达到 5 点，获得搭档「超てんちゃん」",
+          "category": "Partner",
+          "eventId": 26061072,
+          "eventName": "260610_07_2：すたんぷカード報酬追加2《【パートナー】超てんちゃん》",
+          "conditions": [],
+          "metadata": {
+            "bonusId": 65,
+            "maxPoint": 5,
+            "isRepeatGet": false,
+            "isCollabo": true,
+            "netOpenName": "Net260610"
+          },
+          "sourceRef": "A000/loginBonus/LoginBonus000065/LoginBonus.xml"
+        }
+      ]
+    },
+    {
+      "entityType": "partner",
+      "itemKind": 10,
+      "itemId": 34,
+      "name": "リズ",
+      "sources": [
+        {
+          "type": "condition",
+          "displayText": "KALEIDXSCOPEモードをクリア",
+          "category": "Track",
+          "eventId": 1,
+          "eventName": "無期限常時解放",
+          "releaseTagName": "Ver1.55.00",
+          "conditions": [],
+          "metadata": {
+            "dataName": "partner000034",
+            "isDefault": false
+          },
+          "sourceRef": "A005/partner/partner000034/Partner.xml"
+        }
+      ]
+    }
+  ]
+}
