@@ -12,7 +12,7 @@
 {"userId":99999999,"length":1,"nextIndex":0,"itemKind":6,"userItemList":[{"itemKind":6,"itemId":10030,"stock":1,"isValid":true}]}
 {"userId":99999999,"length":1,"nextIndex":0,"itemKind":7,"userItemList":[{"itemKind":7,"itemId":11007,"stock":1,"isValid":true}]}
 [UserCourse]
-{"userId":99999999,"length":1,"nextIndex":0,"userCourseList":[{"courseId":551010,"isLastClear":true,"totalRestlife":350,"totalAchievement":0,"totalDeluxscore":0,"bestAchievement":0,"bestDeluxscore":0,"bestAchievementDate":"2001-09-11 11:45:14","bestDeluxscoreDate":"2001-09-11 11:45:14","playCount":1,"clearDate":"2001-09-11 11:45:14","lastPlayDate":"2001-09-11 11:45:14","extNum1":0}]}
+{"userId":99999999,"length":1,"nextIndex":0,"userCourseList":[{"courseId":551010,"isLastClear":true,"totalRestlife":350,"totalAchievement":0,"totalDeluxscore":0,"bestAchievement":0,"bestDeluxscore":0,"bestAchievementDate":"2001-09-11 11:45:14","bestDeluxscoreDate":"2001-09-11 11:45:14","playCount":1,"clearDate":"2001-09-11 11:45:14","lastPlayDate":"2001-09-11 11:45:14","extNum1":0},{"courseId":551022,"isLastClear":true,"totalRestlife":50,"totalAchievement":0,"totalDeluxscore":0,"bestAchievement":0,"bestDeluxscore":0,"bestAchievementDate":"2001-09-11 11:45:14","bestDeluxscoreDate":"2001-09-11 11:45:14","playCount":1,"clearDate":"2001-09-11 11:45:14","lastPlayDate":"2001-09-11 11:45:14","extNum1":0}]}
 [UserCharge]
 {"userId":99999999,"length":2,"userChargeList":[{"chargeId":3,"stock":2,"purchaseDate":"2001-09-11 11:45:14","validDate":"2001-09-11 11:45:14","extNum1":0},{"chargeId":5,"stock":1,"purchaseDate":"2001-09-11 11:45:14","validDate":"2001-09-11 11:45:14","extNum1":0}]}
 [UserFavorite]
@@ -22,9 +22,9 @@
 {"userId":99999999,"userFavorite":{"itemKind":null,"itemIdList":[]}}
 {"userId":99999999,"userFavorite":{"itemKind":11,"itemIdList":[1,11]}}
 [UserMap]
-{"userId":99999999,"length":1,"nextIndex":0,"userMapList":[{"mapId":250060,"distance":100000,"isLock":false,"isClear":false,"isComplete":false,"unlockFlag":0}]}
+{"userId":99999999,"length":1,"nextIndex":0,"userMapList":[{"mapId":550001,"distance":900000,"isLock":false,"isClear":false,"isComplete":true,"unlockFlag":0}]}
 [UserLoginBonus]
-{"userId":99999999,"length":1,"nextIndex":0,"userLoginBonusList":[{"bonusId":65,"point":4,"isCurrent":false,"isComplete":false}]}
+{"userId":99999999,"length":1,"nextIndex":0,"userLoginBonusList":[{"bonusId":65,"point":5,"isCurrent":false,"isComplete":true}]}
 [UserOption]
 {"userId":99999999,"userOption":{"optionKind":3,"noteSpeed":23,"slideSpeed":10,"touchSpeed":26,"noteSize":1,"slideSize":1,"touchSize":1,"tapDesign":0,"holdDesign":0,"slideDesign":0,"starType":1,"starRotate":1,"adjustTiming":32,"judgeTiming":22,"mirrorMode":0,"ansVolume":0,"tempoVolume":0,"tapHoldVolume":0,"touchHoldVolume":0,"breakVolume":0,"exVolume":0,"slideVolume":0,"breakSe":0,"slideSe":0,"exSe":0,"criticalSe":0,"tapSe":0,"headPhoneVolume":0,"matching":1,"brightness":0,"dispRate":0,"dispCenter":3,"dispJudge":13,"dispJudgePos":5,"dispJudgeTouchPos":2,"dispChain":1,"dispBar":0,"trackSkip":0,"touchEffect":0,"outlineDesign":0,"submonitorAnimation":2,"submonitorAppeal":0,"submonitorAchive":0,"sortTab":0,"sortMusic":0,"damageSeVolume":0,"touchVolume":0,"outFrameType":7,"breakSlideVolume":0}}
 [UserExtend]
