@@ -1,11 +1,10 @@
-name: Purge announcement CDN
-
+name: Purge CDN on data update
 on:
   push:
     branches: [main]
     paths:
       - announcements.json
-
+      - debugaccount.json
 jobs:
   purge:
     runs-on: ubuntu-latest
@@ -14,3 +13,5 @@ jobs:
         run: |
           curl --fail --retry 3 \
             "https://purge.jsdelivr.net/gh/gczydg/SBGATOOLS_APP@main/announcements.json"
+          curl --fail --retry 3 \
+            "https://purge.jsdelivr.net/gh/gczydg/SBGATOOLS_APP@main/debugaccount.json"
