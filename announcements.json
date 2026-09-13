@@ -8,6 +8,13 @@
       "pinned": true
     },
     {
+      "id": "wecranker",
+      "title": "近期开挂",
+      "content": "WEC参赛选手账号被查了近期异常数据记录，普通玩家不发五倍票不传未实装游戏数据应该没事",
+      "publishedAt": "2026-08-25T01:00:00.000Z",
+      "pinned": false
+    },
+    {
       "id": "emptyresponse",
       "title": "API解密为空",
       "content": "主观感觉这两天网络风控变严了，API数据解密异常、API数据解密为空数据、API返回空数据都是IP风控的表现，只是程度不同，遇到换个IP即可。下版本从并发改回串发，希望能缓解",
